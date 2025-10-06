@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.google.com/search?q=https://github.com/kushal-nayak-sp/kushal-nayak-sp/blob/main/header.png" width="25%" align="right" />
+<img src="https://www.google.com/search?q=https://github.com/kushal-nayak-sp/kushal-nayak-sp/raw/main/header.png" width="25%" align="right" />
 
 <!-- Typing Animation -->
 
