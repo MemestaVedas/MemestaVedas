@@ -1,83 +1,99 @@
-<!--
-Hi! Thanks for checking out my README.
-You can customize this template for your own profile.
-Just replace the placeholders like [YOUR-USERNAME] with your actual information.
--->
+<div align="center">
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
-<h3 align="center">A passionate [Your Title/Role] from [Your Location]</h3>
+<img src="https://www.google.com/search?q=https://github.com/kushal-nayak-sp/kushal-nayak-sp/blob/main/header.png" width="25%" align="right" />
 
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3D[YOUR-USERNAME]&theme=flat&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</a>
-</p>
+<!-- Typing Animation -->
+
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DInconsolata%26weight%3D500%26size%3D40%26duration%3D4000%26pause%3D500%26color%3D87CEEB%26center%3Dtrue%26vCenter%3Dtrue%26multiline%3Dtrue%26repeat%3Dfalse%26random%3Dfalse%26width%3D1300%26height%3D140%26lines%3DHello%252C%2BI%27m%2BKushal%2BNayak%2BS%2BP%3BUI%252FUX%2BEngineer%2B%2526%2BFrontend%2BDeveloper%3BCrafting%2BAesthetic%2B%2526%2BPerformant%2BDigital%2BExperiences" />
+
+</div>
 
 About Me
-🔭 I’m currently working on [Your Project Name or what you're focused on]
+I'm a passionate and driven Information Science and Engineering student with a deep interest in blending beautiful design with robust front-end development. My goal is to become a UI/UX Engineer, creating modern, user-centric interfaces that are both aesthetic and highly functional. I'm currently honing my skills in C++ for Data Structures & Algorithms while building real-world projects to strengthen my portfolio.
 
-🌱 I’m currently learning [Technology or Skill you are learning]
+🎓 Education: B.E. in Information Science & Engineering (5th Semester)
 
-👯 I’m looking to collaborate on [Types of projects you want to collaborate on]
+🎯 Goal: To become a world-class UI/UX Engineer.
 
-🤔 I’m looking for help with [A specific challenge or technology]
+💻 Currently Learning: Advanced C++ (DSA), System Design, and exploring Generative AI.
 
-💬 Ask me about [Topics you are knowledgeable and passionate about]
+🐧 OS: Arch Linux enthusiast with a love for customized, efficient workflows (Hyprland).
 
-📫 How to reach me: [your.email@example.com]
-
-😄 Pronouns: [He/Him, She/Her, They/Them, etc.]
-
-⚡ Fun fact: [A fun, interesting fact about you!]
-
-🛠️ Languages and Tools:
-<p align="left">
-<!-- Add the tools and languages you use. Find more icons at https://simpleicons.org/ -->
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-</p>
-
-📊 My GitHub Stats
+🛠️ My Tech Stack
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3D[YOUR-USERNAME]&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" />
+<!-- Languages -->
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2B%2B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dcplusplus%26logoColor%3Dwhite" alt="C++"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/SCSS-CC6699%3Fstyle%3Dfor-the-badge%26logo%3Dsass%26logoColor%3Dwhite" alt="SCSS"/>
+
+
+
+
+
+<!-- Frameworks & Libraries -->
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" alt="React"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dnextdotjs%26logoColor%3Dwhite" alt="Next.js"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" alt="Node.js"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Electron-47848F%3Fstyle%3Dfor-the-badge%26logo%3Delectron%26logoColor%3Dwhite" alt="Electron"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LangChain-000000%3Fstyle%3Dfor-the-badge%26logo%3Dlangchain%26logoColor%3Dwhite" alt="LangChain"/>
+
+
+
+
+
+<!-- Tools & Databases -->
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Astra_DB-7164f0%3Fstyle%3Dfor-the-badge" alt="Astra DB"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Arch_Linux-1793D1%3Fstyle%3Dfor-the-badge%26logo%3Darchlinux%26logoColor%3Dwhite" alt="Arch Linux"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/VS_Code-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dvisualstudiocode%26logoColor%3Dwhite" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
+🚀 Featured Projects
+Project
+
+Description
+
+Tech Stack
+
+AI Healthcare Chatbot
+
+An intelligent chatbot system using LLaMA 2 for healthcare queries, complete with full system architecture.
+
+Next.js, LLaMA 2, LangChain, Astra DB
+
+Study Material Generator
+
+A full-stack web app that auto-generates structured study materials based on university curriculum phases.
+
+React, Node.js, Express.js
+
+Slow DoS Attack Detection
+
+A system that uses AI/ML models to detect and mitigate Slow Denial-of-Service (DoS) attacks.
+
+Python, Machine Learning
+
+Aylurs GTK Widgets
+
+Experimental desktop widgets for Linux built to explore modern UI concepts on the desktop.
+
+TypeScript, SCSS
+
+💼 Professional Experience
+Intern @ Noed 8 Innovations (July 2025 - Present)
+
+Designing icons and contributing to the visual identity of their latest project.
+
+Freelance UI/UX Designer @ Mavlra
+
+Designed and animated the company's official icon and provided key visual assets for their website.
+
+🔗 Connect With Me
 <p align="center">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3D[YOUR-USERNAME]&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-🔗 Connect with me:
-<p align="left">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/[YOUR-LINKEDIN-PROFILE]" target="blank">
-<img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn Profile" height="30" width="40" />
+<a href="https://www.linkedin.com/in/kushal-nayak-s-p-44b7082a3/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
 </a>
-<a href="https://twitter.com/[YOUR-TWITTER-HANDLE]" target="blank">
-<img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Your Twitter Handle" height="30" width="40" />
-</a>
-<a href="https://instagram.com/[YOUR-INSTAGRAM-HANDLE]" target="blank">
-<img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Your Instagram Handle" height="30" width="40" />
-</a>
-<a href="https://dev.to/[YOUR-DEV.TO-USERNAME]" target="blank">
-<img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Your dev.to Profile" height="30" width="40" />
-</a>
+<!-- Add other links like Twitter or your portfolio here -->
 </p>
