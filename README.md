@@ -1,120 +1,73 @@
 <div align="center">
 
-# <span class="name-container" style="position: relative; display: inline-block; cursor: pointer; height: 1.2em;">
-  <span class="name-original" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 3.5em; font-weight: bold; display: inline-block; transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55); position: relative; z-index: 1;">Kushal Nayak S P</span>
-  <span class="name-hover" style="position: absolute; left: 0; top: 0; width: 100%; background: linear-gradient(135deg, #f093fb 0%, #f5576c 50%, #4facfe 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 3.5em; font-weight: bold; opacity: 0; visibility: hidden; transform: scale(0.8) translateY(20px); transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55); pointer-events: none; z-index: 2;">MemestaVedas</span>
-</span>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=36&pause=1000&color=7F7CFF&center=true&vCenter=true&width=600&lines=Kushal+Nayak+S+P;MemestaVedas" />
 
-<div style="margin: 20px 0;">
-  <a href="mailto:kushalnayakas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kushalnayakas@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/MemestaVedas">
-    <img src="https://img.shields.io/badge/GitHub-MemestaVedas-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://linkedin.com/in/kushalnayaksp">
-    <img src="https://img.shields.io/badge/LinkedIn-kushalnayaksp-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
+### 💻 UI/UX Engineer · Full Stack Developer
 
 📍 **Bengaluru, India**
 
----
+<a href="mailto:kushalnayakas@gmail.com">
+  <img src="https://img.shields.io/badge/Email-kushalnayakas@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/MemestaVedas">
+  <img src="https://img.shields.io/badge/GitHub-MemestaVedas-black?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://linkedin.com/in/kushalnayaksp">
+  <img src="https://img.shields.io/badge/LinkedIn-kushalnayaksp-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
 </div>
 
-<style>
-  .name-container {
-    position: relative !important;
-    display: inline-block !important;
-  }
-  
-  .name-original {
-    position: relative !important;
-    z-index: 1 !important;
-  }
-  
-  .name-hover {
-    position: absolute !important;
-    left: 0 !important;
-    top: 0 !important;
-    opacity: 0 !important;
-    visibility: hidden !important;
-    z-index: 2 !important;
-  }
-  
-  .name-container:hover .name-original {
-    opacity: 0 !important;
-    visibility: hidden !important;
-    transform: scale(0.8) translateY(-20px) !important;
-  }
-  
-  .name-container:hover .name-hover {
-    opacity: 1 !important;
-    visibility: visible !important;
-    transform: scale(1.05) translateY(0) !important;
-  }
-</style>
+---
 
+## 🌐 Live Projects
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-7F7CFF?style=for-the-badge)](https://your-site.vercel.app)
+
+</div>
+
+---
+
+## 📸 Website Preview
+<div align="center">
+
+[![Website Preview](https://your-domain.com/preview.gif)](https://your-site.vercel.app)
+
+</div>
+
+---
 
 ## 💻 Skills
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
-
-### 🚀 Programming Languages
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-</div>
+### 🚀 Programming
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust"/>
 
 ### 🎨 Frontend
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-</div>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3"/>
 
 ### ⚙️ Backend
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL">
-  <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=flat-square&logo=rest&logoColor=white" alt="REST API">
-</div>
-
-### 🎨 Design
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator">
-  <img src="https://img.shields.io/badge/UI%2FUX-FF6B9D?style=flat-square&logo=adobe-xd&logoColor=white" alt="UI/UX">
-</div>
-
-### 🛠️ Tools
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
-</div>
-
-</div>
-
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql"/>
+<img src="https://img.shields.io/badge/REST_API-FF6B6B?style=flat-square"/>
 
 ---
 
+## ⚡ GitHub Stats
 <div align="center">
 
-### ⚡ Quick Stats
+<img src="https://github-readme-stats.vercel.app/api?username=MemestaVedas&show_icons=true&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MemestaVedas&layout=compact&theme=radical&hide_border=true"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MemestaVedas&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MemestaVedas&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+</div>
 
 ---
 
-⭐ *From Bengaluru with passion for design and code* ⭐
-
-</div>
+⭐ *May all the beauty be blessed* ⭐
