@@ -1,8 +1,8 @@
 <div align="center">
 
-# <span class="name-container">
-  <span class="name-original">Kushal Nayak S P</span>
-  <span class="name-hover">MemestaVedas</span>
+# <span class="name-container" style="position: relative; display: inline-block; cursor: pointer;">
+  <span class="name-original" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 3.5em; font-weight: bold; display: inline-block; transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);">Kushal Nayak S P</span>
+  <span class="name-hover" style="position: absolute; left: 0; top: 0; width: 100%; height: 100%; background: linear-gradient(135deg, #f093fb 0%, #f5576c 50%, #4facfe 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 3.5em; font-weight: bold; opacity: 0; visibility: hidden; transform: scale(0.8) translateY(20px); transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55); pointer-events: none;">MemestaVedas</span>
 </span>
 
 <div style="margin: 20px 0;">
@@ -24,51 +24,16 @@
 </div>
 
 <style>
-  .name-container {
-    position: relative;
-    display: inline-block;
-    cursor: pointer;
-  }
-  
-  .name-original {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-    font-size: 3.5em;
-    font-weight: bold;
-    display: inline-block;
-    transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-    text-shadow: 0 0 30px rgba(102, 126, 234, 0.5);
-  }
-  
-  .name-hover {
-    position: absolute;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(135deg, #f093fb 0%, #f5576c 50%, #4facfe 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-    font-size: 3.5em;
-    font-weight: bold;
-    opacity: 0;
-    transform: scale(0.8) translateY(20px);
-    transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-    pointer-events: none;
-    text-shadow: 0 0 40px rgba(240, 147, 251, 0.7);
-  }
-  
   .name-container:hover .name-original {
-    opacity: 0;
-    transform: scale(0.8) translateY(-20px);
+    opacity: 0 !important;
+    visibility: hidden !important;
+    transform: scale(0.8) translateY(-20px) !important;
   }
   
   .name-container:hover .name-hover {
-    opacity: 1;
-    transform: scale(1.05) translateY(0);
+    opacity: 1 !important;
+    visibility: visible !important;
+    transform: scale(1.05) translateY(0) !important;
   }
 </style>
 
@@ -126,49 +91,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
 </div>
-
-</div>
-
----
-
-## 💼 Experience
-
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 10px; margin: 15px 0; box-shadow: 0 4px 15px rgba(240, 147, 251, 0.3);">
-
-### 🎨 Design Intern – Noed 8 Innovations
-**📅 July 2025 – October 2025**
-
-- ✨ Worked on professional UI/UX design workflows using Figma, creating reusable components, consistent typography systems, and scalable design layouts.
-- 🎯 Applied industry-level design practices, improving visual hierarchy, spacing, and usability across multiple internal and client-facing interfaces.
-- 🖼️ Delivered high-quality vector assets and illustrations designed in Adobe Illustrator, which were directly adopted into the company's production workflows.
-- 🚀 Contributed design assets that improved overall product presentation and reduced redesign iterations for the development team.
-
-</div>
-
----
-
-## 🚀 Projects
-
-### 🔥 Flamapp
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 10px; margin: 15px 0; box-shadow: 0 4px 15px rgba(79, 172, 254, 0.3);">
-
-**Tech Stack:** `React` `Node.js` `MongoDB`
-
-- Built a full-stack social-style application enabling users to create, share, and interact with content through a clean and responsive UI.
-- Implemented authentication, dynamic feeds, and RESTful APIs using Node.js and MongoDB.
-- Focused on polished UI/UX with component-driven design and smooth user interactions.
-
-</div>
-
-### 🎮 PLAY-ON!
-<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 20px; border-radius: 10px; margin: 15px 0; box-shadow: 0 4px 15px rgba(250, 112, 154, 0.3);">
-
-**Tech Stack:** `Tauri 2.0` `React 19` `Rust` `GraphQL` `Tailwind CSS`
-
-- 🖥️ Built a cross-platform desktop application using Tauri 2.0 with a Rust backend and React 19 frontend to automatically track local anime playback and sync progress with AniList via GraphQL.
-- 🎯 Implemented smart media detection by parsing window titles from players like VLC and MPV, enabling real-time episode recognition and background watch-state updates without manual user input.
-- 📖 Designed and integrated an in-app Manga Reader with search, chapter navigation, Webtoon/page modes, and progress tracking, extending the app into a unified anime–manga hub.
-- 🎨 Added Discord Rich Presence integration displaying live anime/manga activity with cover art and metadata, and built a glassmorphic UI with smooth animations and persistent mini-player indicators.
 
 </div>
 
