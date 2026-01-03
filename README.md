@@ -20,24 +20,6 @@
 
 ---
 
-## 🌐 Live Projects
-<div align="center">
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-7F7CFF?style=for-the-badge)](https://your-site.vercel.app)
-
-</div>
-
----
-
-## 📸 Website Preview
-<div align="center">
-
-[![Website Preview](https://your-domain.com/preview.gif)](https://your-site.vercel.app)
-
-</div>
-
----
-
 ## 💻 Skills
 
 ### 🚀 Programming
