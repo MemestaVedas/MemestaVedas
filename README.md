@@ -1,8 +1,8 @@
 <div align="center">
 
-# <span class="name-container" style="position: relative; display: inline-block; cursor: pointer;">
-  <span class="name-original" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 3.5em; font-weight: bold; display: inline-block; transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);">Kushal Nayak S P</span>
-  <span class="name-hover" style="position: absolute; left: 0; top: 0; width: 100%; height: 100%; background: linear-gradient(135deg, #f093fb 0%, #f5576c 50%, #4facfe 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 3.5em; font-weight: bold; opacity: 0; visibility: hidden; transform: scale(0.8) translateY(20px); transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55); pointer-events: none;">MemestaVedas</span>
+# <span class="name-container" style="position: relative; display: inline-block; cursor: pointer; height: 1.2em;">
+  <span class="name-original" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 3.5em; font-weight: bold; display: inline-block; transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55); position: relative; z-index: 1;">Kushal Nayak S P</span>
+  <span class="name-hover" style="position: absolute; left: 0; top: 0; width: 100%; background: linear-gradient(135deg, #f093fb 0%, #f5576c 50%, #4facfe 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 3.5em; font-weight: bold; opacity: 0; visibility: hidden; transform: scale(0.8) translateY(20px); transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55); pointer-events: none; z-index: 2;">MemestaVedas</span>
 </span>
 
 <div style="margin: 20px 0;">
@@ -24,6 +24,25 @@
 </div>
 
 <style>
+  .name-container {
+    position: relative !important;
+    display: inline-block !important;
+  }
+  
+  .name-original {
+    position: relative !important;
+    z-index: 1 !important;
+  }
+  
+  .name-hover {
+    position: absolute !important;
+    left: 0 !important;
+    top: 0 !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
+    z-index: 2 !important;
+  }
+  
   .name-container:hover .name-original {
     opacity: 0 !important;
     visibility: hidden !important;
@@ -37,17 +56,6 @@
   }
 </style>
 
-## 🎓 Education
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; margin: 10px 0; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);">
-
-**Dayananda Sagar College of Engineering** | Bengaluru, KA  
-**B.E. in Information Science and Engineering** | **8.6 CGPA**  
-📅 *2022 – 2026*
-
-</div>
-
----
 
 ## 💻 Skills
 
@@ -94,18 +102,6 @@
 
 </div>
 
----
-
-## 🎭 Co-Curricular
-
-<div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 20px; border-radius: 10px; margin: 15px 0; box-shadow: 0 4px 15px rgba(168, 237, 234, 0.3);">
-
-### 🎨 Design Head – Genesis Student Forum
-**📅 2025 – 2026**
-
-Led a 20-member team to design assets and branding for multiple college-level events; active core member since 2023.
-
-</div>
 
 ---
 
