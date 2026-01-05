@@ -43,10 +43,7 @@
 ---
 
 ## ⚡ GitHub Stats
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MemestaVedas&theme=dark&hide_border=false" alt="Streak Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MemestaVedas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=MemestaVedas&theme=tokyonight-duo&hide_border=true&border_radius=6.6)](https://git.io/streak-stats)
 
 ---
 
