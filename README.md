@@ -27,7 +27,7 @@
 
 ## ⚡ GitHub Stats
 
-<a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=MemestaVedas&theme=tokyonight-duo&hide_border=true&border_radius=6.6" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=MemestaVedas&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
