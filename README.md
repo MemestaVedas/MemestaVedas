@@ -29,6 +29,7 @@
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MemestaVedas&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 </div>
+
 ---
 
 <p align="center">⭐ <i>May all the beauty be blessed</i> ⭐</p>
