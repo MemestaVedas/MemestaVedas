@@ -69,26 +69,14 @@
 </div>
 
 <br/>
-<!-- Enhanced Metrics (powered by lowlighter/metrics) -->
-<h2 align="center">✨ Enhanced Metrics</h2>
+<!-- Enhanced Metrics -->
+<h2 align="center">✨ Deep Dive Metrics</h2>
 
 <div align="center">
-  <p>Interactive metrics powered by <a href="https://github.com/lowlighter/metrics">Metrics</a> — fully customizable with templates and plugins.</p>
-  <img src="/github-metrics.svg" alt="Enhanced metrics" width="720"/>
+  <a href="https://github.com/MemestaVedas">
+    <img src="/github-metrics.svg" alt="Enhanced GitHub Metrics" width="800" style="border-radius: 12px; max-width: 100%; box-shadow: 0px 4px 10px rgba(0,0,0,0.5); margin: 20px 0;" />
+  </a>
 </div>
-
-<p align="center">Quick setup: the workflow below will generate `/github-metrics.svg` automatically — add a repository secret named <code>METRICS_TOKEN</code>. For advanced usage, see the project's docs.</p>
-
-<details>
-  <summary>Markdown snippet — copy & paste</summary>
-
-  ```md
-  <p align="center">
-    <img src="/github-metrics.svg" alt="Metrics" />
-  </p>
-  ```
-
-</details>
 
 <br/>
 <br/>
